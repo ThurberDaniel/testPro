@@ -1,3 +1,2 @@
-print(8+10)
-
-print("test test")
+pro = "word "
+print(pro * 3)
