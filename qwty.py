@@ -1,2 +1,2 @@
 pro = "word "
-print(pro * 3)
+print(pro * 30000)
